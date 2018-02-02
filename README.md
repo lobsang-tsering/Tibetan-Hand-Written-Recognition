@@ -87,7 +87,7 @@ into single dimensional array which are considered are futures to fit to algorit
 </table>
  
  ![screen shot 2018-02-03 at 1 52 37](https://user-images.githubusercontent.com/21317182/35753376-88e56c3a-0885-11e8-8663-e909304ae537.png)
-  <br>  Binary pixel values of Tibetan alphabet ཀ (ka)
+  <br>  Binary pixel values of Tibetan character ཀ (ka)
   
   Any contribution to this project are welcome. All content of this project are free. 
   :)
