@@ -1,5 +1,5 @@
-pngFiles = dir('*.png');
-numFiles = 14;
+pngFiles = dir('*.png'); % make sure only same character is in this directory %
+numFiles = 14; % numFiles is the number of png files to retrice the pixel vales of.%
 for k =1:numFiles
     imge = imread(pngFiles(k).name);
     A = rgb2gray(imge);
