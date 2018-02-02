@@ -46,7 +46,7 @@ into single dimensional array which are considered are futures to fit to algorit
   </tr>
   <tr>
     <td>0</td>
-    <td> </td>
+    <td> ༠ </td>
   </tr>
   <tr>
     <td>1</td>
