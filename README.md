@@ -1,4 +1,4 @@
-# TibetanHandWrittenRecognition
+# Tibetan Hand Written Recognition
 
 
 In this project i have prepared my handwritten of few Tibetan alphabates and Tibetan digits as dataset for training and testing.
